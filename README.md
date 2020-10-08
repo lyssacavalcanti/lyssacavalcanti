@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://twitter.com/TechLyssa" target="_blank">
-	<img src="/twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter">
+	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
 </div>
@@ -32,4 +32,4 @@
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
 
-  
+ 
