@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lyssa Cavalcanti 👋
 
-- 🔭 I’m currently working developing my technical skills.
+- 🔭 I’m currently working on developing my technical skills.
 - 🌱 I’m currently learning Javascript, React, HTML and CSS.
 - 💬 Ask me about transition carreer.
 - 📫 How to reach me:
