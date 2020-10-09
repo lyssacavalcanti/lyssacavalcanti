@@ -1,3 +1,6 @@
+<img src="gif-readme.gif"/>
+
+
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
 
 ### Hi there, I'm [Lyssa Cavalcanti!](http://www.techly.com.br/) 👩🏽‍💻
