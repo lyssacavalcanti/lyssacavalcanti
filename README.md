@@ -3,11 +3,11 @@
 
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
 
-### Hi there, I'm [Lyssa Cavalcanti!](http://www.techly.com.br/) 👩🏽‍💻
+### Howdy, I'm [Lyssa Cavalcanti!](http://www.techly.com.br/) 👩🏽‍💻
 
 <div align="center">
 
-<i>How to reach me::</i><br>
+<i>How to reach me:</i><br>
 
 <a href="https://www.linkedin.com/in/lyssacavalcanti/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -28,10 +28,10 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on developing my technical skills.
-- 🌱 I’m currently learning Javascript, React, HTML and CSS.
-- 💬 Ask me about transition carreer.
-- 📫 Let's connect! 
+- I’m currently working on developing my technical skills.
+- I’m currently learning Javascript, React, HTML and CSS.
+- Ask me about transition carreer.
+- Let's connect! 
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
 
