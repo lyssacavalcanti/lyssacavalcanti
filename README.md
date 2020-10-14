@@ -1,5 +1,5 @@
 <img src="techly-readme.gif"/>
-
+![Visitor Count](https://profile-counter.glitch.me/{lyssacavalcanti}/count.svg)
 
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
 
