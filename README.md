@@ -1,5 +1,5 @@
 <img src="techly-readme.gif"/>
-![Visitor Count](https://profile-counter.glitch.me/{lyssacavalcanti}/count.svg)
+
 
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
 
@@ -34,5 +34,6 @@
 - Let's connect! 
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
-
+  
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
  
