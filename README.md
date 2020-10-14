@@ -36,4 +36,6 @@
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
   
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
+![image title](https://rushter.com/counter.svg)
  
