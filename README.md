@@ -1,5 +1,5 @@
 <img src="techly-readme.gif"/>
-![image title](https://rushter.com/counter.svg)
+
 
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
 
@@ -34,6 +34,7 @@
 - Let's connect! 
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
+  
 
-
+![image title](https://rushter.com/counter.svg)
  
