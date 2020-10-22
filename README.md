@@ -1,4 +1,4 @@
-<img src="techly-readme.gif"/>
+<img src="techly-readme-blue.gif"/>
 
 
 [![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
