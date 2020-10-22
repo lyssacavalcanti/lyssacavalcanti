@@ -31,7 +31,6 @@
 <br/>
 
 - I’m currently working on developing my technical skills.
-- I’m currently learning Javascript, React, HTML and CSS.
 - Ask me about transition carreer.
 - Let's connect! 
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
@@ -42,7 +41,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssacavalcanti&layout=compact" /></a>
 
-:small_blue_diamond: ## Techs daily used
+## Techs daily used
 
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
