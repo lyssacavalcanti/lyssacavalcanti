@@ -31,7 +31,6 @@
 <br/>
 
 - I’m currently working on developing my technical skills.
-- Ask me about transition carreer.
 - Let's connect! 
   - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
   - [Sololearn](https://www.sololearn.com/Profile/19522679)
@@ -52,3 +51,4 @@
 
 ![image title](https://rushter.com/counter.svg)
  
+ <img src="techly-purpose.gif"/>
