@@ -28,7 +28,7 @@
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
-</br>
+![image title](https://rushter.com/counter.svg)
 
 <div align="center">
 
@@ -51,8 +51,5 @@
 </a>
 
 </div>
-
-</br>
-![image title](https://rushter.com/counter.svg)
 </br>
   <img src="techly-purpose.gif"/>
