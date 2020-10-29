@@ -1,9 +1,34 @@
 <img src="techly-readme-blue.gif"/>
 
 
-[![HitCount](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti.svg)](http://hits.dwyl.com/lyssacavalcanti/lyssacavalcanti)
-
 ### Howdy, I'm [Lyssa Cavalcanti!](http://www.techly.com.br/) 👩🏽‍💻
+
+
+<br/>
+:octocat:
+<br/>
+
+- I’m currently working on developing my technical skills.
+- Let's connect! 
+  - [Codewars](https://www.codewars.com/users/lyssacavalcanti)
+  - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
+  - [Sololearn](https://www.sololearn.com/Profile/19522679)
+  
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lyssacavalcanti&show_icons=true" /></a>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssacavalcanti&layout=compact" /></a>
+
+## Techs daily used
+
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+
+![image title](https://rushter.com/counter.svg)
 
 <div align="center">
 
@@ -26,29 +51,5 @@
 </a>
 
 </div>
-<br/>
-:octocat:
-<br/>
-
-- I’m currently working on developing my technical skills.
-- Let's connect! 
-  - [Netlify](https://app.netlify.com/teams/lyssacavalcanti/)
-  - [Sololearn](https://www.sololearn.com/Profile/19522679)
-  
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lyssacavalcanti&show_icons=true" /></a>
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssacavalcanti&layout=compact" /></a>
-
-## Techs daily used
-
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-
-![image title](https://rushter.com/counter.svg)
- 
- <img src="techly-purpose.gif"/>
+</br>
+  <img src="techly-purpose.gif"/>
