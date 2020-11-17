@@ -38,7 +38,7 @@
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/lyssacavalcanti/" target="_blank">
+<a href="https://www.instagram.com/techly.com.br/" target="_blank">
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
@@ -46,7 +46,7 @@
 	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-<a href="https://twitter.com/TechLyssa" target="_blank">
+<a href="https://twitter.com/techlycombr" target="_blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
