@@ -50,6 +50,8 @@
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/5ad145a190df59f58963f360519afdaa.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
 </div>
 </br>
   <img src="techly-purpose.gif"/>
