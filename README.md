@@ -50,8 +50,8 @@
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
-### I post my everyday progress studies on my [Instagram](https://www.instagram.com/techly.com.br/) 
-<img src="instagram.png"/>
+### I post my everyday studies progress on my [Instagram](https://www.instagram.com/techly.com.br/) 
+<a href="https://www.instagram.com/techly.com.br/" target="_blank"><img src="instagram.png"/>
 
 </div>
 </br>
