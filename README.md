@@ -43,7 +43,7 @@
 
 ### I post my everyday studies progress on my [Instagram](https://www.instagram.com/techly.com.br/)
 
-<a href="https://www.instagram.com/techly.com.br/" target="_blank"><img src="instagram.png"/>
+<a href="https://www.instagram.com/techly.com.br/" target="_blank"><img src="instagram-lyssacavalcanti.png"/>
 
 </div>
 </br>
