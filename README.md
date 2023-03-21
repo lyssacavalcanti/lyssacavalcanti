@@ -55,5 +55,4 @@ You can reach me out here:<br>
 </br>
   <img src="techly-purpose.gif"/>
 
-
-![Made with love by Lyssa](https://madewithlove.now.sh/br?heart=true&colorA=%230cd0cd&colorB=%23dd3b7e&template=for-the-badge)
+*Made with love ♡ by Lyssa*
